@@ -1,0 +1,36 @@
+[*]
+[*] GTKWave Analyzer v3.3.86 (w)1999-2017 BSI
+[*] Thu Apr 18 23:20:53 2019
+[*]
+[dumpfile] "/home/sean/prj/fpga/mm-challenge/ghdl/wave.vcd"
+[dumpfile_mtime] "Thu Apr 18 22:38:52 2019"
+[dumpfile_size] 319295
+[savefile] "/home/sean/prj/fpga/mm-challenge/ghdl/pd.gtkw"
+[timestart] 0
+[size] 1600 845
+[pos] -1 -1
+*-33.157436 41506000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] pd_tb.
+[sst_width] 202
+[signals_width] 138
+[sst_expanded] 1
+[sst_vpaned_height] 233
+@28
+pd_tb.clk
+pd_tb.srst
+@421
+pd_tb.enbcnt
+@28
+pd_tb.enb
+@200
+-
+@28
+pd_tb.start
+pd_tb.data
+@200
+-
+@28
+pd_tb.ip
+pd_tb.detected
+[pattern_trace] 1
+[pattern_trace] 0
